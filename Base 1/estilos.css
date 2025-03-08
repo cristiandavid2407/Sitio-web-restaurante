@@ -1,0 +1,12 @@
+.menu{
+    background-color:#3c662f ;
+}
+
+.fondo{
+    background-image: url("./img/FondoUno.jpg");
+    background-position: top center ;
+    background-size: cover ;
+    padding: 25%;
+    background-attachment: fixed;
+    
+}
